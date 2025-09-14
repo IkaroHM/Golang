@@ -14,6 +14,8 @@ func main() {
 		fmt.Printf("%s teve uma media de %.2f\n e nao passou", Aluno, mediai)
 	}
 
+
+
 	var Alunoa string = "Abacate"
 	var nota1a float64 = 9
 	var nota2a float64 = 9
@@ -25,6 +27,8 @@ func main() {
 		fmt.Printf("%s teve uma media de %.2f\n e nao passou", Alunoa, mediai)
 	}
 
+
+	
 	var Alunob string = "Brasil"
 	var nota1b float64 = 9
 	var nota2b float64 = 9

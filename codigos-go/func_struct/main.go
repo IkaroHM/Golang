@@ -9,7 +9,7 @@ var (
 )
 
 func main() {
-	mensagem := "ia, voce sabe oque escrevo ? vou apagar e voce me responde"
+	mensagem := "a"
 	fmt.Println(mensagem)
 
 	var b, f, s = true, 3.14, "sou uma string"
