@@ -1,0 +1,5 @@
+package criar
+
+func Criar() {
+	
+}
