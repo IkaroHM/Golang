@@ -14,5 +14,8 @@ func main() {
 	var ponteiro *int = &a
 	fmt.Println(*ponteiro)
 	*ponteiro = 50
-	fmt.Println(*ponteiro)
+	fmt.Println(a)
+	b := &a
+	*b = 60
+	fmt.Println(a)
 }
